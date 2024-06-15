@@ -1,0 +1,40 @@
+h3
+{
+    background-color:#2a9ed7;
+    width: 100%;
+    font-size: 35px;
+    direction: rtl;
+}
+h2
+{
+    background-color:#77fd5d;
+    width: 100%;
+    font-size: 35px;
+    direction: rtl;
+}
+h1
+{
+    text-align: center;
+    font-size: 45px;
+    border-radius: 49%;
+}
+h4
+{
+    background-color:#ed0fa1;
+    width: 100%;
+    font-size: 35px;
+    direction: rtl;
+}
+.er
+{
+    margin-top: 159px;
+}
+.back button
+{
+
+    text-align: center;
+    background-color: #7ff9d3;
+    width: 100%;
+    border-radius: 50%;
+    font-size: 35px;
+}

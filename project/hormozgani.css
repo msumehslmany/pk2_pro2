@@ -1,0 +1,106 @@
+.top
+{
+    width: 100%;
+    height: 90px;
+    background-color: #f7e94c;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.top .hed h1
+{
+ float: right;
+    font-family: "Arial Rounded MT Bold" ;
+    padding-right: 55px;
+
+}
+.top .hed img
+{
+    float: left;
+    padding-left: 50px;
+}
+.main-menu-logo{
+    padding-right:150px;
+    float: right;
+    display: inline-block;
+    font-size: 30px;
+}
+.aval
+{
+   background-color: chocolate;
+    width: 520px;
+    height: 360px;
+    margin-top: 165px;
+    margin-right: 100px;
+    border-radius: 25px;
+}
+.aval .shalvar img
+{
+    padding-right: 35px;
+    padding-top: 30px;
+    float: right;
+}
+.aval .shalvar h1 {
+    font-size:35px;
+    text-align: center;
+}
+
+.tow
+{
+    background-color:#f8ed74;
+    width: 550px;
+    height: 360px;
+    margin-right: 610px;
+    margin-top: -345px;
+    border-radius: 26px;
+
+}
+.tow img
+{
+    padding-right: 35px;
+    padding-top: 30px;
+    float: right;
+}
+.tow h1
+{
+    text-align: center;
+    font-size: 40px;
+}
+.tree
+{
+    background-color:#f8ed74;
+    width: 520px;
+    height: 360px;
+    margin-top: 165px;
+    border-radius: 25px;
+}
+.tree img
+{
+    padding-right: 35px;
+    padding-top: 30px;
+    float: right;
+}
+.tree h1
+{
+    text-align: center;
+    font-size: 40px;
+}
+.for
+{
+    background-color:chocolate;
+    width: 550px;
+    height: 360px;
+    margin-right: 610px;
+    margin-top: -385px;
+    border-radius: 26px;
+}
+.for img
+{
+    padding-right: 35px;
+    padding-top: 30px;
+    float: right;
+}
+.for h1
+{
+    text-align: center;
+    font-size: 40px;
+}

@@ -1,0 +1,64 @@
+#one
+{
+    background-color: gold;
+    width: 100%;
+    border-radius:5%;
+}
+#one img
+{
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#tow
+{
+    background-color: darkorange;
+    width: 100%;
+    border-radius:5%;
+}
+#tow img
+{
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#tree
+{
+    background-color: gold;
+    width: 100%;
+    border-radius:5%;
+}
+#tree img
+{
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#for
+{
+    background-color: darkorange;
+    width: 100%;
+    border-radius:5%;
+}
+#for img
+{
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h1
+{
+    font-size: 50px;
+    text-align: center;
+    background-color: chocolate;
+    font-family: "Arabic Typesetting";
+}
+.back button
+{
+
+    text-align: center;
+    background-color: #f8ed74;
+    width: 100%;
+    border-radius: 50%;
+    font-size: 35px;
+}
